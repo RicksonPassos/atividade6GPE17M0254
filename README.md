@@ -2,8 +2,10 @@
 
 ## Instruções
 
--No repositório de atividades, cria uma pasta atividade6 que implemente uma aplicação web (npm init).
-
+-No repositório de atividades, cria uma pasta atividade6 que implemente uma aplicação web:
+```bash
+npm install
+```
 -A aplicação deve possuir uma rota "/" que renderiza um formulário implementado no arquivo "views/index.html";
 
 -O formulário deve possuir os campos nome, endereço, telefone e data de agendamento.

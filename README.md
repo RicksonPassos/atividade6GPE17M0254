@@ -1,6 +1,6 @@
-#Atividade 6
+# Atividade 6
 
-##Instruções
+## Instruções
 
 -No repositório de atividades, cria uma pasta atividade6 que implemente uma aplicação web (npm init).
 
